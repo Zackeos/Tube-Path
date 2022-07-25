@@ -1,4 +1,4 @@
-:START_ID(STATION),:END_ID(STATION),line:int,time:int
+start,end,line,time
 11,163,1,1
 11,212,1,2
 49,87,1,1
